@@ -4,6 +4,7 @@ using System.Windows.Forms;
 
 namespace InventoryManagementSystem
 {
+
     public partial class LoginForm : Form
     {
         private SqlConnection connection = new SqlConnection(@"Data Source=(local);Initial Catalog=InventoryManagementSystem;Integrated Security=True");
@@ -68,8 +69,13 @@ namespace InventoryManagementSystem
                 connection.Close();
             }
         }
-    }
 
+        private void LoginForm_Load_1(object sender, EventArgs e)
+        {
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+        }
+    }
     public class User
     {
         public int UserID { get; set; }

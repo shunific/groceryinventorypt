@@ -366,6 +366,54 @@ namespace InventoryManagementSystem
 
         private void InventoryForm_Load(object sender, EventArgs e)
         {
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.WindowState = FormWindowState.Maximized;
+        }
+
+        private void btnItemUpd_Click(object sender, EventArgs e)
+        {
+            btnUpdateItem_Click(sender, e);
+        }
+
+        private void btnUpdCat_Click(object sender, EventArgs e)
+        {
+            if (dgvCategories.SelectedRows.Count == 0)
+            {
+                MessageBox.Show("Please select a category to update.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            DataGridViewRow row = dgvCategories.SelectedRows[0];
+            int categoryID = Convert.ToInt32(row.Cells["CategoryID"].Value);
+
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+                    string query = @"UPDATE Categories SET 
+                            CategoryName = @Name,
+                            Description = @Desc
+                            WHERE CategoryID = @CategoryID";
+                    SqlCommand cmd = new SqlCommand(query, connection);
+                    cmd.Parameters.AddWithValue("@Name", txtCategoryName.Text);
+                    cmd.Parameters.AddWithValue("@Desc", txtCategoryDesc.Text);
+                    cmd.Parameters.AddWithValue("@CategoryID", categoryID);
+
+                    int rowsAffected = cmd.ExecuteNonQuery();
+
+                    if (rowsAffected > 0)
+                    {
+                        MessageBox.Show("Category updated successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        LoadCategories();
+                        ClearCategoryFields();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error updating category: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

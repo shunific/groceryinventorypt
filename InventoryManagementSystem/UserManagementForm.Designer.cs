@@ -37,8 +37,9 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.btnDelUser = new System.Windows.Forms.Button();
             this.btnAddUser = new System.Windows.Forms.Button();
+            this.btnDelUser = new System.Windows.Forms.Button();
+            this.btnUpdateUser = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsers)).BeginInit();
             this.SuspendLayout();
             // 
@@ -116,33 +117,44 @@
             this.label4.TabIndex = 8;
             this.label4.Text = "Users";
             // 
-            // btnDelUser
-            // 
-            this.btnDelUser.Location = new System.Drawing.Point(254, 212);
-            this.btnDelUser.Name = "btnDelUser";
-            this.btnDelUser.Size = new System.Drawing.Size(75, 23);
-            this.btnDelUser.TabIndex = 9;
-            this.btnDelUser.Text = "Delete User";
-            this.btnDelUser.UseVisualStyleBackColor = true;
-            this.btnDelUser.Click += new System.EventHandler(this.btnAddUser_Click_1);
-            // 
             // btnAddUser
             // 
-            this.btnAddUser.Location = new System.Drawing.Point(254, 164);
+            this.btnAddUser.Location = new System.Drawing.Point(254, 148);
             this.btnAddUser.Name = "btnAddUser";
             this.btnAddUser.Size = new System.Drawing.Size(75, 23);
             this.btnAddUser.TabIndex = 10;
             this.btnAddUser.Text = "Add User";
             this.btnAddUser.UseVisualStyleBackColor = true;
-            this.btnAddUser.Click += new System.EventHandler(this.btnAddUser_Click_2);
+            this.btnAddUser.Click += new System.EventHandler(this.btnAddUser_Click_1);
+            // 
+            // btnDelUser
+            // 
+            this.btnDelUser.Location = new System.Drawing.Point(254, 214);
+            this.btnDelUser.Name = "btnDelUser";
+            this.btnDelUser.Size = new System.Drawing.Size(75, 23);
+            this.btnDelUser.TabIndex = 11;
+            this.btnDelUser.Text = "Delete User";
+            this.btnDelUser.UseVisualStyleBackColor = true;
+            this.btnDelUser.Click += new System.EventHandler(this.btnDelUser_Click);
+            // 
+            // btnUpdateUser
+            // 
+            this.btnUpdateUser.Location = new System.Drawing.Point(254, 185);
+            this.btnUpdateUser.Name = "btnUpdateUser";
+            this.btnUpdateUser.Size = new System.Drawing.Size(75, 23);
+            this.btnUpdateUser.TabIndex = 12;
+            this.btnUpdateUser.Text = "Update User";
+            this.btnUpdateUser.UseVisualStyleBackColor = true;
+            this.btnUpdateUser.Click += new System.EventHandler(this.btnUpdateUser_Click_1);
             // 
             // UserManagementForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(996, 636);
-            this.Controls.Add(this.btnAddUser);
+            this.Controls.Add(this.btnUpdateUser);
             this.Controls.Add(this.btnDelUser);
+            this.Controls.Add(this.btnAddUser);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -172,7 +184,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button btnDelUser;
         private System.Windows.Forms.Button btnAddUser;
+        private System.Windows.Forms.Button btnDelUser;
+        private System.Windows.Forms.Button btnUpdateUser;
     }
 }
