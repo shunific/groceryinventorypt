@@ -54,6 +54,8 @@
             this.btnAddCategory = new System.Windows.Forms.Button();
             this.btnAddItem = new System.Windows.Forms.Button();
             this.label11 = new System.Windows.Forms.Label();
+            this.btnItemUpd = new System.Windows.Forms.Button();
+            this.btnUpdCat = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCategories)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvItems)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudQuantity)).BeginInit();
@@ -287,11 +289,33 @@
             this.label11.TabIndex = 25;
             this.label11.Text = "Item Description:";
             // 
+            // btnItemUpd
+            // 
+            this.btnItemUpd.Location = new System.Drawing.Point(259, 130);
+            this.btnItemUpd.Name = "btnItemUpd";
+            this.btnItemUpd.Size = new System.Drawing.Size(100, 23);
+            this.btnItemUpd.TabIndex = 26;
+            this.btnItemUpd.Text = "Update Item";
+            this.btnItemUpd.UseVisualStyleBackColor = true;
+            this.btnItemUpd.Click += new System.EventHandler(this.btnItemUpd_Click);
+            // 
+            // btnUpdCat
+            // 
+            this.btnUpdCat.Location = new System.Drawing.Point(262, 156);
+            this.btnUpdCat.Name = "btnUpdCat";
+            this.btnUpdCat.Size = new System.Drawing.Size(97, 23);
+            this.btnUpdCat.TabIndex = 27;
+            this.btnUpdCat.Text = "Update Category";
+            this.btnUpdCat.UseVisualStyleBackColor = true;
+            this.btnUpdCat.Click += new System.EventHandler(this.btnUpdCat_Click);
+            // 
             // InventoryForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1337, 657);
+            this.Controls.Add(this.btnUpdCat);
+            this.Controls.Add(this.btnItemUpd);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.btnAddItem);
             this.Controls.Add(this.btnAddCategory);
@@ -359,5 +383,7 @@
         private System.Windows.Forms.Button btnAddCategory;
         private System.Windows.Forms.Button btnAddItem;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Button btnItemUpd;
+        private System.Windows.Forms.Button btnUpdCat;
     }
 }
