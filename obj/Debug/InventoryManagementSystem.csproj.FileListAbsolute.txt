@@ -1,0 +1,114 @@
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.InventoryForm.resources
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserManagementForm.resources
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\dreis\Documents\409 second sem subs\INTEG PROG\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Azure.Core.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Azure.Identity.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Buffers.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.ClientModel.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Data.SqlClient.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Memory.Data.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Memory.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.AccessControl.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Text.Json.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.ValueTuple.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Azure.Core.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Azure.Identity.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Buffers.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.ClientModel.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Data.SqlClient.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Memory.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Memory.Data.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.AccessControl.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Text.Json.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\System.ValueTuple.xml
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.InventoryForm.resources
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserManagementForm.resources
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\Inventor.EBF2E7CF.Up2Date
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+X:\Users\Hirui\Documents\coding\integ pt\groceryinventorypt-main\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
