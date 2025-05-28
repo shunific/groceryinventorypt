@@ -7,7 +7,7 @@ namespace InventoryManagementSystem
 {
     public partial class InventoryForm : Form
     {
-        private readonly string connectionString = @"Data Source=(local);Initial Catalog=InventoryManagementSystem;Integrated Security=True";
+        private readonly string connectionString = (@"Server=SHUN\SQLEXPRESS;Database=InventoryManagementSystem;Trusted_Connection=True;");
         private readonly User currentUser;
 
         public InventoryForm(User user)
@@ -414,6 +414,11 @@ namespace InventoryManagementSystem
             {
                 MessageBox.Show("Error updating category: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
